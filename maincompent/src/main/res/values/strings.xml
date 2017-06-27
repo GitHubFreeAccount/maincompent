@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MainCompent</string>
+    <string name="set_wallpaper">设置动态桌面</string>
+    <string name="detial">详情页</string>
+</resources>

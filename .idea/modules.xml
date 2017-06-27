@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RollerCoaster.iml" filepath="$PROJECT_DIR$/RollerCoaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/getredpackets/getredpackets.iml" filepath="$PROJECT_DIR$/getredpackets/getredpackets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maincompent/maincompent.iml" filepath="$PROJECT_DIR$/maincompent/maincompent.iml" />
+    </modules>
+  </component>
+</project>
